@@ -1,5 +1,10 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
 body {
   font-weight: 300;
+   margin-bottom: 60px;
 }
 
 p {
@@ -39,4 +44,24 @@ p {
 
 .btn {
   font-size: 20px;
+}
+
+.fa {
+  display: inline-block;
+    width: 100%;
+    text-align:center;
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+.navbar-default .navbar-text {
+color: #000000;
+}
+.footer {
+
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #000000;
 }

@@ -1,105 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>LifeSweeper Technologies</title>
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css" media="screen">
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  <style>
-body {
-  font-weight: 300;
-}
-
-p {
-  margin-top: 2em;
-  margin-bottom: 2em;
-  line-height: 1.6em;
-  font-size: 20px;
-}
-
-.splash {
-  height: 35em;
-  padding-top: 9em;
-  margin-bottom: 2em;
-  background-image: url("http://lifesweeper.me/tweed.png");
-  background-repeat: repeat;
-  color: #fff;
-  text-align: center;
-}
-
-.navbar-default {
-  position: absolute;
-  background-color: transparent;
-}
-
-.navbar-default .navbar-brand {
-  font-size: 20px;
-}
-
-.navbar-default .navbar-brand,
-.navbar-default .navbar-nav > li > a {
-  font-weight: 400;
-}
-
-.navbar-default .navbar-nav > li > a:hover {
-  background-color: transparent;
-}
-
-.btn {
-  font-size: 20px;
-}
-
-.panel-title {
-  font-size: 36px;
-}
-
-.center {
-  margin: auto;
-  position: absolute;
-  width: auto;
-}
-
-</style>
-</head>
-  <body>
-    <div class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <a href="index.html" class="navbar-brand">LifeSweeper Technologies</a>
-          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-        <div class="navbar-collapse collapse" id="navbar-main">
-          <ul class="nav navbar-nav">
-            <li class="dropdown">
-              <a href="#">Who We Are</a>
-            </li>
-            <li>
-              <a>Our Project</a>
-            </li>
-            <li>
-              <a>The Development Process</a>
-            </li>
-            <li>
-              <a>Powerpoint Presentations</a>
-            </li>
-            <li>
-              <a>More...</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
+<?php include __DIR__.'/includes/header.php'; ?>
+  
 
     <div class="splash">
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h1>The Development Process</h1>
-            <p></p>
+            <p>Throw some tagline here, k.</p>
           </div>
         </div>
       </div>
@@ -188,6 +95,4 @@ p {
         </div>
       </div>
     </div>
-
-  </body>
-</html>
+<?php require __DIR__.'/includes/footer.php'; ?>
