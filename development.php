@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h1>The Development Process</h1>
-            <p>Throw some tagline here, k.</p>
+            <p>It's all in the mind, you know?</p>
           </div>
         </div>
       </div>
@@ -21,17 +21,27 @@
           </div>
           <div class="panel-body">
 
-            <p>Here is a backstory of how we got our first idea. Here we will have references to mikes first idea conception. Maybe links to video clips on youtube, and how we all first precieved it. </p>
+            <p>Our story starts with Mike watching TV. The show is called "Inside Combat Rescue." In the episode,
+               American soliders in Afghanistan are on a search and rescue mission. The mission takes them to an active minefield.
+                 Unfortunately, the team is stuck waiting for ground forces to sweep for mines before the helicopter can land.
+                 Time is critical when a soldier is bleeding out.</p>
+
+            <p> Here we will have references to mikes first idea conception. 
+            Maybe links to video clips on youtube, and how we all first precieved it. </p>
           </div>
         </div>
         <i class="fa fa-arrow-down fa-5x"></i>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h1 class="panel-title">First Sketches</h1>
+            <h1 class="panel-title">First Thoughts</h1>
           </div>
           <div class="panel-body">
 
-            <p>Here we will discuss each sketch concpet and rough prototype. We will talk about each picture posted fromt he whiteboards, and discuss what we wanted to keep from each design.</p>
+            <p>Our first few designs looked like a box with treads. We were thinking of mounting the metal detector under the body of the car.
+                We took inspiration from real life and developed a boom arm to do all the sweeping.</p>
+
+            <p>Originally, the intent was to control the car 
+               through an Android application. The idea was shelved due to time constraints.</p>
             <div class="row">
               <div class="col-xs-6 col-md-3">
                 <a href="#" class="thumbnail">
@@ -50,11 +60,11 @@
         <i class="fa fa-arrow-down fa-5x"></i>
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h1 class="panel-title">Proposal</h1>
+            <h1 class="panel-title">Revisting the Idea</h1>
           </div>
           <div class="panel-body">
 
-            <p>Here we will discuss the project proposal, link to the powerpoint used that is being hosted on powerpoint.html. We will talk about soem of the questions asked at the end of our presentations, and how we aimed to answer them. What did we learn from presenting?</p>
+            <p> </p>
             <div class="row">
               <div class="col-xs-6 col-md-3">
                 <a href="#" class="thumbnail">

@@ -14,6 +14,8 @@ p {
   font-size: 20px;
 }
 
+
+
 .splash {
   height: 35em;
   padding-top: 9em;
@@ -27,6 +29,10 @@ p {
 .navbar-default {
   position: absolute;
   background-color: transparent;
+  img{
+    width:30%;
+    
+  }
 }
 
 .navbar-default .navbar-brand {
@@ -51,6 +57,7 @@ p {
     width: 100%;
     text-align:center;
 }
+
 /* Sticky footer styles
 -------------------------------------------------- */
 .navbar-default .navbar-text {

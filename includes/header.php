@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -12,7 +11,7 @@
   <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="index.php" class="navbar-brand">LifeSweeper Technologies</a>
+          <a href="/lifesweeper.me/index.php" class="navbar-brand"><img src="/lifesweeper.me/images/lifesweeper.png" class="img-responsive"></a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -22,10 +21,10 @@
         <div class="navbar-collapse collapse pull-right" id="navbar-main">
           <ul class="nav navbar-nav">
             <li class="dropdown">
-              <a href="/lifesweeper.me/index.php/#whoweare">Who We Are</a>
+              <a href="/lifesweeper.me/about.php">About Us</a>
             </li>
             <li>
-              <a href="/lifesweeper.me/index.php/#ourproject">Our Project</a>
+              <a href="/lifesweeper.me/ourproject.php">Our Project</a>
             </li>
             <li>
               <a href="/lifesweeper.me/development.php">The Development Process</a>

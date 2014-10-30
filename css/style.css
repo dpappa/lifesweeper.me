@@ -18,7 +18,7 @@ p {
   font-size: 20px;
 }
 
-/* line 17, ../sass/style.scss */
+/* line 19, ../sass/style.scss */
 .splash {
   height: 35em;
   padding-top: 9em;
@@ -29,34 +29,38 @@ p {
   text-align: center;
 }
 
-/* line 27, ../sass/style.scss */
+/* line 29, ../sass/style.scss */
 .navbar-default {
   position: absolute;
   background-color: transparent;
 }
-
 /* line 32, ../sass/style.scss */
+.navbar-default img {
+  width: 30%;
+}
+
+/* line 38, ../sass/style.scss */
 .navbar-default .navbar-brand {
   font-size: 20px;
 }
 
-/* line 36, ../sass/style.scss */
+/* line 42, ../sass/style.scss */
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a {
   font-weight: 400;
 }
 
-/* line 41, ../sass/style.scss */
+/* line 47, ../sass/style.scss */
 .navbar-default .navbar-nav > li > a:hover {
   background-color: transparent;
 }
 
-/* line 45, ../sass/style.scss */
+/* line 51, ../sass/style.scss */
 .btn {
   font-size: 20px;
 }
 
-/* line 49, ../sass/style.scss */
+/* line 55, ../sass/style.scss */
 .fa {
   display: inline-block;
   width: 100%;
@@ -65,12 +69,12 @@ p {
 
 /* Sticky footer styles
 -------------------------------------------------- */
-/* line 56, ../sass/style.scss */
+/* line 63, ../sass/style.scss */
 .navbar-default .navbar-text {
   color: #000000;
 }
 
-/* line 59, ../sass/style.scss */
+/* line 66, ../sass/style.scss */
 .footer {
   position: absolute;
   bottom: 0;
