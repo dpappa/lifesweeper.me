@@ -43,15 +43,19 @@
             <p>Originally, the intent was to control the car 
                through an Android application. The idea was shelved due to time constraints.</p>
             <div class="row">
-              <div class="col-xs-6 col-md-3">
+              <div class="col-xs-6 col-md-1">
                 <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
+                  <img src="http://placekitten.com/200/300" alt="...">
                 </a>
+              </div>
+              <div class="col-xs-6 col-md-1">  
                 <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
+                  <img src="http://placekitten.com/200/300" alt="...">
                 </a>
+              </div>
+              <div class="col-xs-6 col-md-1">  
                 <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
+                  <img src="holder.js/100%x180" alt="...">
                 </a>
               </div>
             </div>
