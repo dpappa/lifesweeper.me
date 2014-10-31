@@ -56,7 +56,8 @@
 					        <h3>Darrell Pappa</h3>
 					        <h4>Raspberry Gi</h4>
 					        <h5>Degree: CSET</h5>
-					        <p>Darrell Bio</p>
+					        <p>Originally from Columbus, Darrell traveled up to Toledo for an Engineering degree. Since then he has worked at The Univeristy of Toledo, and has co-founded a startup company.
+					        Darrell enjoys networking, server administration, and playing guitar with Nick. </p>
 					        <p><a href="http://www.linkedin.com/pub/darrell-pappa/9b/a53/144" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
