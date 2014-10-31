@@ -42,23 +42,6 @@
 
             <p>Originally, the intent was to control the car 
                through an Android application. The idea was shelved due to time constraints.</p>
-            <div class="row">
-              <div class="col-xs-6 col-md-1">
-                <a href="#" class="thumbnail">
-                  <img src="http://placekitten.com/200/300" alt="...">
-                </a>
-              </div>
-              <div class="col-xs-6 col-md-1">  
-                <a href="#" class="thumbnail">
-                  <img src="http://placekitten.com/200/300" alt="...">
-                </a>
-              </div>
-              <div class="col-xs-6 col-md-1">  
-                <a href="#" class="thumbnail">
-                  <img src="holder.js/100%x180" alt="...">
-                </a>
-              </div>
-            </div>
           </div>
         </div>
         <i class="fa fa-arrow-down fa-5x"></i>
@@ -68,20 +51,8 @@
           </div>
           <div class="panel-body">
 
-            <p> </p>
-            <div class="row">
-              <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
-                </a>
-                <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
-                </a>
-                <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
-                </a>
-              </div>
-            </div>
+            <p>Coming soon </p>
+            
           </div>
         </div>
         <i class="fa fa-arrow-down fa-5x"></i>
@@ -92,19 +63,7 @@
           <div class="panel-body">
 
             <p>Here we will discuss our current progress. This will include any challenges we faced, and how we aim to overcome them. We can talk about pending plans for the future, and how they might affect our relese date.</p>
-            <div class="row">
-              <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
-                </a>
-                <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
-                </a>
-                <a href="#" class="thumbnail">
-                  <img data-src="holder.js/100%x180" alt="...">
-                </a>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>

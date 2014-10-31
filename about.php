@@ -22,12 +22,13 @@
 					
 					  <div class="col-sm-6 col-md-4">
 					    <div class="thumbnail">
-					      <img src="/lifesweeper.me/images/nick.jpg" alt="Nick Stalter">
+					      <img src="/images/nick.jpg" alt="Nick Stalter">
 					      <div class="caption">
 					        <h3>Nicholas Stalter</h3>
-					        <h4>Project Leader</h4>
+					        <h4>Ring Leader</h4>
 					        <h5>Degree: CSET</h5>
-					        <p>Nick Bio</p>
+					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
+					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
 					        <p><a href="http://www.linkedin.com/pub/nicholas-stalter/93/205/4b5/" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
@@ -50,7 +51,7 @@
 					
 					  <div class="col-sm-6 col-md-4">
 					    <div class="thumbnail">
-					      <img src="/lifesweeper.me/images/darrell.jpg" alt="Darrell Pappa">
+					      <img src="/images/darrell.jpg" alt="Darrell Pappa">
 					      <div class="caption">
 					        <h3>Darrell Pappa</h3>
 					        <h4>Raspberry Gi</h4>
@@ -63,7 +64,7 @@
 
 					  <div class="col-sm-6 col-md-4">
 					    <div class="thumbnail">
-					      <img src="/lifesweeper.me/images/matt.jpg" alt="Matt Rich">
+					      <img src="/images/matt.jpg" alt="Matt Rich">
 					      <div class="caption">
 					        <h3>Matthew Rich</h3>
 					        <h4>Desktop Dominator</h4>

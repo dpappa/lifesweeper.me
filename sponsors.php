@@ -33,7 +33,7 @@
 					
 					  <div class="col-sm-6 col-md-4">
 					    <div class="thumbnail">
-					      <img src="/lifesweeper.me/images/smartshape.png" alt="SmartShape Design">
+					      <img src="images/smartshape.png" alt="SmartShape Design">
 					      <div class="caption">
 					        <h3>SmartShape Design</h3>
 					        <p>Mike Maczuzak and SmartShape Design are changing the ways we look at fabrication. With extensive knowledge and skill in custom machinery, SmartShape is designing the future.</p>

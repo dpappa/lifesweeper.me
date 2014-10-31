@@ -21,7 +21,7 @@
           <p>We are a group of college seniors collectively working on our senior capstone project. 
           We are currently enrolled at the University of Toledo, in the college of 
           Engineering Technology. </p>
-          <p><a class="btn btn-default btn-lg" style="margin-left: auto; margin-right: auto;" href="/lifesweeper.me/about.php">Learn More</a></p>
+          <p><a class="btn btn-default btn-lg" style="margin-left: auto; margin-right: auto;" href="/about.php">Learn More</a></p>
         <h2 id="ourproject">What are we doing</h2>
 
          <!-- <p>The project is to build a remote controlled mine sweeping robot for use in combat situations.
@@ -33,7 +33,7 @@
            we strive to eliminate the need for manual minesweeping. The main focus is portability and ease of use. Our 
            goal is to save lives and keep our soldiers safe.</p>
 
-          <p><a class="btn btn-default btn-lg" style="margin-left: auto; margin-right: auto;" href="/lifesweeper.me/ourproject.php">Learn More</a></p>
+          <p><a class="btn btn-default btn-lg" style="margin-left: auto; margin-right: auto;" href="/ourproject.php">Learn More</a></p>
         </div>
 
       </div>
