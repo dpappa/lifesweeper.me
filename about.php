@@ -42,7 +42,9 @@
 					        <h3>Christian Angelo</h3>
 					        <h4>Fret Master</h4>
 					        <h5>Degree: CSET</h5>
-					        <p>Christian Bio</p>
+					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
+					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
+					        </p>
 					        <p><a href="#" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
@@ -56,7 +58,9 @@
 					        <h3>Darrell Pappa</h3>
 					        <h4>Raspberry Gi</h4>
 					        <h5>Degree: CSET</h5>
-					        <p>Darrell Bio</p>
+					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
+					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
+					        </p>
 					        <p><a href="http://www.linkedin.com/pub/darrell-pappa/9b/a53/144" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
@@ -69,7 +73,9 @@
 					        <h3>Matthew Rich</h3>
 					        <h4>Desktop Dominator</h4>
 					        <h5>Degree: CSET/EET</h5>
-					        <p>Matt Bio</p>
+					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
+					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
+					        </p>
 					        <p><a href="http://www.linkedin.com/in/mattrich22" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
@@ -83,7 +89,9 @@
 					        <h3>Michael Stetson</h3>
 					        <h4>Master Tinkerer</h4>
 					        <h5>Degree: CSET</h5>
-					        <p>Mike Bio</p>
+					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
+					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
+					        </p>
 					        <p><a href="http://www.linkedin.com/pub/michael-stetson/81/153/386/" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
