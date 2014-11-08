@@ -1,28 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  
     <meta charset="utf-8">
     <title>LifeSweeper Technologies</title>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     
 	<link rel="stylesheet" href="/css/style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 </head>
   <body>
-  <div class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
         <div class="navbar-header">
-          <a href="/" class="navbar-brand"><img src="/images/lifesweeper.png" class="img-responsive hidden-xs"></a>
-        </div>  
-          <button class="navbar-toggle" type="button" data-toggle="collapse" target="#navbar-main">
+           <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+          <a href="/" class="navbar-brand"><img src="/images/lifesweeper.png" class="img-responsive hidden-xs"></a>
         </div>
-        <div class="navbar-collapse collapse pull-right" id="navbar-main">
+        
+        <div id="navbarCollapse" class="collapse navbar-collapse pull-right">
           <ul class="nav navbar-nav">
             <li class="dropdown">
+              <a href="/index.php">Home</a>
+            </li>
+            <li>
               <a href="/about.php">About Us</a>
             </li>
             <li>
@@ -40,5 +46,4 @@
           </ul>
         </div>
       </div>
-    </div>
- 
+    </nav>

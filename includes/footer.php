@@ -5,8 +5,6 @@
 			<?php date_default_timezone_set('America/Detroit'); echo date("Y"); ?> LifeSweeper Technologies</p>
 	</nav>
 	</div>
-</div>	
-<script src="/js/jquery-1.11.1.min.js"></script>
-
+</div>
 </body>
 </html>

@@ -1,16 +1,16 @@
-/* line 1, ../sass/style.scss */
+/* line 2, ../sass/style.scss */
 html {
   position: relative;
   min-height: 100%;
 }
 
-/* line 5, ../sass/style.scss */
+/* line 6, ../sass/style.scss */
 body {
   font-weight: 300;
   margin-bottom: 60px;
 }
 
-/* line 10, ../sass/style.scss */
+/* line 11, ../sass/style.scss */
 p {
   margin-top: 2em;
   margin-bottom: 2em;
@@ -18,7 +18,7 @@ p {
   font-size: 20px;
 }
 
-/* line 19, ../sass/style.scss */
+/* line 20, ../sass/style.scss */
 .splash {
   height: 35em;
   padding-top: 9em;
@@ -29,38 +29,38 @@ p {
   text-align: center;
 }
 
-/* line 29, ../sass/style.scss */
+/* line 30, ../sass/style.scss */
 .navbar-default {
   position: absolute;
   background-color: transparent;
 }
-/* line 32, ../sass/style.scss */
+/* line 33, ../sass/style.scss */
 .navbar-default img {
   width: 30%;
 }
 
-/* line 38, ../sass/style.scss */
+/* line 39, ../sass/style.scss */
 .navbar-default .navbar-brand {
   font-size: 20px;
 }
 
-/* line 42, ../sass/style.scss */
+/* line 43, ../sass/style.scss */
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a {
   font-weight: 400;
 }
 
-/* line 47, ../sass/style.scss */
+/* line 48, ../sass/style.scss */
 .navbar-default .navbar-nav > li > a:hover {
   background-color: transparent;
 }
 
-/* line 51, ../sass/style.scss */
+/* line 52, ../sass/style.scss */
 .btn {
   font-size: 20px;
 }
 
-/* line 55, ../sass/style.scss */
+/* line 56, ../sass/style.scss */
 .fa {
   display: inline-block;
   width: 100%;
@@ -69,12 +69,12 @@ p {
 
 /* Sticky footer styles
 -------------------------------------------------- */
-/* line 63, ../sass/style.scss */
+/* line 64, ../sass/style.scss */
 .navbar-default .navbar-text {
   color: #000000;
 }
 
-/* line 66, ../sass/style.scss */
+/* line 67, ../sass/style.scss */
 .footer {
   position: absolute;
   bottom: 0;
@@ -82,4 +82,13 @@ p {
   /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #000000;
+}
+
+/* line 76, ../sass/style.scss */
+.navbar-toggle {
+  opacity: 0.25;
+}
+/* line 77, ../sass/style.scss */
+.navbar-toggle ul {
+  background: white;
 }
