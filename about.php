@@ -84,7 +84,7 @@
 					
 					  <div class="col-sm-6 col-md-4">
 					    <div class="thumbnail">
-					      <img src="http://placekitten.com/g/200/200" alt="Mike Stetson">
+					      <img src="/images/mike.jpg" alt="Mike Stetson">
 					      <div class="caption">
 					        <h3>Michael Stetson</h3>
 					        <h4>Master Tinkerer</h4>
@@ -92,7 +92,7 @@
 					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
 					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
 					        </p>
-					        <p><a href="http://www.linkedin.com/pub/michael-stetson/81/153/386/" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
+					        <p><a href="https://www.linkedin.com/pub/michael-stetson/81/153/386" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
 					  </div>
