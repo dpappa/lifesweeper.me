@@ -67,7 +67,42 @@
 				</div>
 				<div class="panel-body">
 
-				<p>Advisors panel will look like sponsors</p>
+				
+					  <div class="col-sm-6 col-md-4">
+					    <div class="thumbnail">
+					      <img src="http://placekitten.com/g/300/300" alt="Jacob Phillips">
+					      <div class="caption">
+					        <h3>Jacob Phillips</h3>
+					        <p></p>
+					        <p><a href="#" class="btn btn-primary" role="button">Website</a></p>
+					      </div>
+					    </div>
+					  </div>
+					
+					
+					  <div class="col-sm-6 col-md-4">
+					    <div class="thumbnail">
+					      <img src="http://placekitten.com/g/300/300" alt="Richard Springman">
+					      <div class="caption">
+					        <h3>Richard Springman</h3>
+					        <p></p>
+					        <p><a href="#" class="btn btn-primary" role="button">Website</a></p>
+					      </div>
+					    </div>
+					  </div>
+					
+					
+					  <div class="col-sm-6 col-md-4">
+					    <div class="thumbnail">
+					      <img src="http://placekitten.com/g/300/300" alt="Ted Evans">
+					      <div class="caption">
+					        <h3>Ted Evans</h3>
+					        <p></p>
+					        <p><a href="#" class="btn btn-primary" role="button">Website</a></p>
+					      </div>
+					    </div>
+					  </div>
+
 				</div>
 			</div>	
 		</div>

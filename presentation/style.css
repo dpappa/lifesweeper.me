@@ -6,42 +6,16 @@ form,fieldset,input,textarea,p,blockquote,th,td {
     padding: 0;
     margin: 0;
 }
-a{
-	text-decoration:none;
-}
-table {
-    border-spacing: 0;
-}
-fieldset,img {
-    border: 0;
-}
-address,caption,cite,code,dfn,em,strong,th,var {
-    font-weight: normal;
-    font-style: normal;
-}
-strong{
-	font-weight: bold;
-}
-ol,ul {
-    list-style: none;
-    margin:0;
-    padding:0;
-}
-caption,th {
-    text-align: left;
 
-}
 h1,h2,h3,h4,h5,h6 {
     font-weight: normal;
-    font-size: 100%;
+    font-size: 106%;
     margin:0;
     padding:0;
     color:#444;
 }
 q:before,q:after {
     content:'';
-}
-abbr,acronym { border: 0;
 }
 
 
@@ -66,7 +40,7 @@ p{
 	color:white;
 }
 .intro p{
-	width: 50%;
+	width: 56%;
 	margin: 0 auto;
 	font-size: 1.5em;
 }
@@ -124,7 +98,7 @@ p{
 	* --------------------------------------- */
 	#section0{
 		background-image: url(imgs/bg1.jpg);
-		padding: 15% 0 0 0;
+		padding: 3% 0 0 0;
 	}
 	#section1{
 		background-image: url(imgs/bg2.jpg);

@@ -37,7 +37,7 @@
 					
 					  <div class="col-sm-6 col-md-4">
 					    <div class="thumbnail">
-					      <img src="http://placekitten.com/g/200/200" alt="Christian Angelo">
+					      <img src="/images/christian.jpg" alt="Christian Angelo">
 					      <div class="caption">
 					        <h3>Christian Angelo</h3>
 					        <h4>Fret Master</h4>
@@ -45,7 +45,7 @@
 					        <p>Originally from Florida, Nick came to Toledo for shortly after graduating high school. Nick likes to play music and dreams of opening his own studio.
 					        When he is not working at LifeSweeper or school, he spends the rest of his time working on his startup, Insourc.</p>
 					        </p>
-					        <p><a href="#" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
+					        <p><a href="https://www.linkedin.com/pub/christian-angelo/a7/8b1/b82" class="btn btn-primary" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
 					  </div>

@@ -92,3 +92,9 @@ p {
 .navbar-toggle ul {
   background: white;
 }
+
+/* line 83, ../sass/style.scss */
+.thumbnail img {
+  height: 192px;
+  width: 192px;
+}

@@ -18,12 +18,14 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 
 	<script type="text/javascript" src="jquery.fullPage.js"></script>
-	<script type="text/javascript" src="script.js"></script>
+	
 
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('#fullpage').fullpage({
-				verticalCentered: false
+				verticalCentered: false,
+				loopTop: true,
+				loopBottom: true
 
 			});
 		});
@@ -32,7 +34,7 @@
 </head>
 <body>
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.tapitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 <div id="fullpage">
@@ -53,34 +55,67 @@
 	<div class="section" id="section2">
 		<div class="slide" id="slide">
 		<h1>Overview</h1>
-		<p>Overview1</p>
+		<p>What have we done</p>
 		</div>
 		<div class="slide" id="slide1">
 		<h1>Overview</h1>
-		<p>Overview2</p>
+		<p>Set backs</p>
 		</div>
-		<div class="slide" id="slide3">
-		<h1>Overview</h1>
-		<p>Overview3</p>
-		</div>	
 		<div class="slide" id="slide4">
 		<h1>Overview</h1>
-		<p>Overview4</p>
+		<p>What's next</p>
 		</div>	
 		<div class="slide" id="slide2">
-		<h1>Overview</h1>
-		<p>Overview5</p>
+		<h1>Q&A</h1>
+		<p></p>
 		</div>			
 
 	</div>
-	<div class="section" id="section3"><h1>Matt</h1></div>
-	<div class="section" id="section4"><h1>Mike</h1></div>
-	<div class="section" id="section5"><h1>Christian</h1></div>
-	<div class="section" id="section6"><h1>Darrell</h1></div>
-	<div class="section" id="section7"><h1>Nick</h1></div>
-	<div class="section" id="section8"><h1>Setbacks</h1></div>
-	<div class="section" id="section9"><h1>What's Next?</h1></div>
-	<div class="section" id="section10"><h1>Q&A?</h1></div>
+	<div class="section" id="section3">
+	<h1>Matt</h1>
+	<h3>The Car</h3>
+	<h3>3D printing</h3>
+	<h3>Break down of how it works</h3>
+	</div>
+	<div class="section" id="section4">
+	<h1>Mike</h1>
+	<h3>The motors</h3>
+	<h3>H Bridge + Power</h3>
+	<h3>The circuits</h3>
+	</div>
+	<div class="section" id="section5">
+	<h1>Christian</h1>
+	<h3>The controls</h3>
+	<h3>The Yun</h3>
+	<h3>Programming</h3>
+	</div>
+	<div class="section" id="section6">
+	<h1>Darrell</h1>
+	<h3>The Pi</h3>
+	<h3>The network</h3>
+	<h3>Server side work</h3>
+	</div>
+	<div class="section" id="section7">
+	<h1>Nick</h1>
+	<h3>Managing</h3>
+	<h3>The web</h3>
+	<h3>Integration & Controls</h3>
+	<h3></h3>
+	</div>
+	<div class="section" id="section8">
+	<h1>Setbacks</h1>
+	<h3>Marking system</h3>
+	<h3>Power</h3>
+	<h3>Wireless controls</h3>
+	</div>
+	<div class="section" id="section9">
+	<h1>What's Next?</h1>
+	<h3>Finish and integrate</h3>
+	<h3>Testing</h3>
+	</div>
+	<div class="section" id="section10">
+	<h1>Q&A?</h1>
+	</div>
 </div>
 
 </body>
