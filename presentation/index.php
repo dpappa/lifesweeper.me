@@ -25,7 +25,11 @@
 			$('#fullpage').fullpage({
 				verticalCentered: false,
 				loopTop: true,
-				loopBottom: true
+				loopBottom: true,
+				responsive: 900,
+				navigation: true,
+				navigationPosition: 'right',
+				slidesNavigation: true
 
 			});
 		});
