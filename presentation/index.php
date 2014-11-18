@@ -6,7 +6,7 @@
 	<title>LifeSweeper Technologies - "PowerPoint"</title>
 
 	<link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
-	<link rel="stylesheet" type="text/css" href="/css/presentation.css" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
 
 	<!--[if IE]>
 		<script type="text/javascript">
@@ -29,8 +29,8 @@
 				responsive: 900,
 				navigation: true,
 				navigationPosition: 'right',
-				slidesNavigation: true,
-			
+				slidesNavigation: true
+
 			});
 		});
 	</script>
@@ -57,7 +57,7 @@
 		<h3>Mike Stetson</h3>
 	</div>
 	<div class="section" id="section2">
-		<div class="slide" id="slide0">
+		<div class="slide" id="slide">
 		<h1>Overview</h1>
 		<p>What have we done</p>
 		</div>

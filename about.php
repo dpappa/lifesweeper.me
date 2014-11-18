@@ -81,7 +81,7 @@
 					        <p>Matt Bio</p>
 					        <p><a href="http://www.linkedin.com/in/mattrich22" class="btn btn-primary btn-block" role="button"><i class="fa fa-linkedin"></i></a></p>
 =======
-					        <p>Matts Bio:</p>
+					        <p>Matthew's home town is Burton, OH. He came to Toledo to acquire two engineering degrees, Electrical Engineering Technology and Computer Science Engineering Technology. Matt Dream is to design and develop video games. With his free time, Matt enjoys video and board games.</p>
 					        <p><a href="http://www.linkedin.com/in/mattrich22" title="Matthew Rich LinkedIn" class="btn btn-primary btn-block" role="button"><i class="fa fa-linkedin"></i></a></p>
 >>>>>>> bb9a381f0b43ed5a0abf64149109e2e2f0c565a4
 					      </div>

@@ -1,0 +1,165 @@
+@CHARSET "ISO-8859-1";
+/* Reset CSS
+ * --------------------------------------- */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
+form,fieldset,input,textarea,p,blockquote,th,td {
+    padding: 0;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    font-size: 106%;
+    margin:0;
+    padding:0;
+    color:#444;
+}
+q:before,q:after {
+    content:'';
+}
+
+
+/* Custom CSS
+ * --------------------------------------- */
+body{
+	font-family: arial,helvetica;
+	color: #333;
+	color: rgba(0,0,0,0.5);
+}
+.wrap{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+}
+h1{
+	font-size: 6em;
+}
+p{
+	font-size: 2em;
+	color:white;
+}
+.intro p{
+	width: 56%;
+	margin: 0 auto;
+	font-size: 1.5em;
+}
+.section{
+	text-align:center;
+}
+
+	/* Style for our header texts
+	* --------------------------------------- */
+	h1{
+		font-size: 5em;
+		font-family: arial,helvetica;
+		color: #fff;
+		margin:0;
+		padding:0;
+	}
+	h3{
+		font-size: 3em;
+		font-family: arial,helvetica;
+		color: #fff;
+		margin:0;
+		padding:0;
+	}
+	
+
+	/* Centered texts in each section
+	* --------------------------------------- */
+	.section{
+		text-align:center;
+	}
+
+
+	/* Backgrounds will cover all the section
+	* --------------------------------------- */
+	#section0,
+	#section1,
+	#section2,
+	#section3,
+	#section4,
+	#section5,
+	#section6,
+	#section7,
+	#section8,
+	#section9,
+	#section10,
+	#slide1,
+	#slide2,
+	#slide3,
+	#slide4
+	{
+		background-size: cover;
+	}
+
+	/* Defining each section background and styles
+	* --------------------------------------- */
+	#section0{
+		background-image: url(imgs/bg1.jpg);
+		padding: 3% 0 0 0;
+	}
+	#section1{
+		background-image: url(imgs/bg2.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section2{
+		background-image: url(imgs/bg3.jpg);
+		padding: 0% 0 0 0;
+	}
+	#section3{
+		background-image: url(imgs/bg4.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section4{
+		background-image: url(imgs/bg5.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section5{
+		background-image: url(imgs/bg6.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section6{
+		background-image: url(imgs/bg7.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section7{
+		background-image: url(imgs/bg8.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section8{
+		background-image: url(imgs/bg9.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section9{
+		background-image: url(imgs/bg10.jpg);
+		padding: 6% 0 0 0;
+	}
+	#section10{
+		background-image: url(imgs/bg11.jpg);
+		padding: 6% 0 0 0;
+	}	
+ 	/*Adding background for the slides
+	* --------------------------------------- */
+	#slide1{
+		background-image: url(imgs/slide1.jpg);
+		padding: 0 0 0 0;	
+	}
+	#slide2{
+		background-image: url(imgs/slide2.jpg);
+		padding: 0 0 0 0;
+	}
+	#slide3{
+		background-image: url(imgs/slide3.jpg);
+		padding: 0 0 0 0;
+	}
+	#slide4{
+		background-image: url(imgs/slide4.jpg);
+		padding: 0 0 0 0;
+	}
+	/* Bottom menu
+	* --------------------------------------- */
+	#infoMenu li a {
+		color: #fff;
+	}
