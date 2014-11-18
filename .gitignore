@@ -8,3 +8,6 @@ Thumbs.db
 .DS_Store
 /node_modules/
 .grunt/
+sftp-config.json
+.editorconfig
+.travis.yml
