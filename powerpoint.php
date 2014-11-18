@@ -15,7 +15,8 @@
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
         <p> Feel free to check out our presentations</p>
-        <h3><a href="/presentation/index.php">Presentation - 11/13/14</a></h3>
+        <h3><a href="/powerpoint/Power%20Point%20Presentation%20Two%20(11-13-2014).pdf">Presentation - 11/13/14</a></h3>
+        <h3><a href="/powerpoint/Power%20Point%20Presentation%20One.pdf">Presentation - 09/28/14</a></h3>
        </div>
       </div>
     </div>

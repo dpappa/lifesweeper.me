@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://lifesweeper.me/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/index.php/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/about.php/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/ourproject.php/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/development.php/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/powerpoint.php/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/sponsors.php/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/powerpoint/Power%20Point%20Presentation%20Two%20(11-13-2014).pdf</loc>
+  <lastmod>2014-11-15T16:41:53+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://lifesweeper.me/powerpoint/Power%20Point%20Presentation%20One.pdf</loc>
+  <lastmod>2014-11-15T16:41:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
