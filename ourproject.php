@@ -40,9 +40,11 @@
 					<ul>
 						<li><a href="http://arduino.cc/en/main/software" title="Arduino IDE">Arduino IDE 1.5x for Yun</a></li>
 						<li>We used uhttpd which is already on the Yun</li>
-						<li><a href="#" title="Pi operating system">Operating System for Pi</a></li>
-						<li><a href="#" title="Camera program for Pi">Camera program for Pi</a></li>
+						<li><a href="https://www.archlinux.org/" title="Pi operating system">Operating System for Pi - Arch Linux</a></li>
+						<li><a href="https://www.ffmpeg.org/" title="Camera program for Pi">Camera program for Pi - FFMPEG</a></li>
+						<li><a href="http://sourceforge.net/adobe/smp/home/Strobe%20Media%20Playback/" title="Adobe RTMP Plugin">Adobe Plugin for RTMP Streaming</a></li>
 						<li><a href="http://nginx.org/" title="Nginx">NGINX web server for Pi</a></li>
+						<li><a href="https://github.com/arut/nginx-rtmp-module/wiki/Directives" title="NGINX RTMP module">Nginx RTMP module</a></li>
 					</ul>	
 					<img class="img-responsive" src="/images/working1.jpg" alt="Christian Angelo and Nick Stalter working on programming"> 
 				</div>
@@ -63,7 +65,7 @@
 					 <p>Jon Fawcett showing us the ropes!</p>
 					 <img class="img-responsive" src="/images/fusechicken2.jpg" alt="Jon Fawcett of Fuse Chicken with 3D printer">
 					<p>List of parts that are 3D printed:</p>
-						<ul>
+					<ul>
 						<li>Camera Case for Raspberry Pi</li>
 						<li>Camera Mount for Raspberry Pi</li>
 						<li>Motor Mounts</li>
@@ -74,7 +76,7 @@
 						<li>Wheel Hub Shafts</li>
 						<li>Wheel Hub Shaft Locks</li>
 						<li>wheel hub Shaft Spacers</li>
-						</ul>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -87,24 +89,23 @@
 					<h1 class="panel-title">Mechanical Parts</h1>
 					</div>
 					<div class="panel-body">
-					<p>Coming Soon!</p>
-					<p>Talking about the Mechanical aspects</p>
+					<p>Everything else that could not be affordably 3D printed were purchased or custom made through the help of Ron Rich and Mike Maczuzak/SmartShape Design</p>
 					<img class="img-responsive" src="/images/working2.jpg" alt="Matt Rich working with his dad, Ron Rich">
 					<p>Some pictures of us working with Ron Rich</p>					 
 					 <img class="img-responsive" src="/images/working6.jpg" alt="Darrell Pappa working with Ron Rich">
 					 <p>Working hard while still having fun</p>
 					 <img class="img-responsive" src="/images/working5.jpg" alt="LifeSweeper working">
 					<p>List of non 3D printed parts:</p>
-						<ul>
-							<li>Car Body</li>
-							<li>Wheels and Rims</li>
-							<li>Acrylic Mounts</li>
-							<li>Drive Belt</li>
-							<li>Metal Detector</li>
-							<li>Rotating Plate</li>
-							<li>Axels</li>
-							<li>Wheel Mounts</li>
-						</ul>
+					<ul>
+						<li>Car Body</li>
+						<li>Wheels and Rims</li>
+						<li>Acrylic Mounts</li>
+						<li>Drive Belt</li>
+						<li>Metal Detector</li>
+						<li>Rotating Plate</li>
+						<li>Axels</li>
+						<li>Wheel Mounts</li>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -117,7 +118,7 @@
 					<h1 class="panel-title">Final Thoughts</h1>
 					</div>
 					<div class="panel-body">
-					<p>Coming Soon!</p>
+					<p>Coming Soon! </p>
 					<p>Given more resources, what would we like to accomplish</p>
 				</div>
 			</div>

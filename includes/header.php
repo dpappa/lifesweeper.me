@@ -12,21 +12,13 @@
     <title>LifeSweeper Technologies</title>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<<<<<<< HEAD
     <link type="text/css" rel="Stylesheet" href="/css/bjqs.css" />
-
-    
-	<link rel="stylesheet" href="/css/style.css">
+	  <link rel="stylesheet" href="/css/style.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="js/bjqs-1.3.js"></script>
 <script src="js/script.js"></script>
-=======
-    <link rel="stylesheet" href="/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
->>>>>>> bb9a381f0b43ed5a0abf64149109e2e2f0c565a4
 <?php include_once __DIR__."/analytics.php" ?>
 </head>
   <body>
