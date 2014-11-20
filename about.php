@@ -64,7 +64,7 @@
 					        <h3>Matthew Rich</h3>
 					        <h4>Desktop Dominator</h4>
 					        <h5>Degree: CSET/EET</h5>
-					        <p>Matthew's home town is Burton, OH. He came to Toledo to acquire two engineering degrees, Electrical Engineering Technology and Computer Science Engineering Technology. Matt Dream is to design and develop video games. With his free time, Matt enjoys video and board games.</p>					        
+					        <p>Matthew's home town is Burton, OH. He came to Toledo to acquire two engineering degrees, Electrical Engineering Technology and Computer Science Engineering Technology. Matt's dream is to design and develop video games. With his free time, Matt enjoys video and board games.</p>					        
 					        <p><a href="http://www.linkedin.com/in/mattrich22" title="Matthew Rich LinkedIn" class="btn btn-primary btn-block" role="button"><i class="fa fa-linkedin"></i></a></p>
 					      </div>
 					    </div>
